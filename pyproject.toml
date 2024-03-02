@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "hardqode"
+name = "hardqode-1"
 version = "0.1.0"
 description = "test task"
-authors = ["Your Name <you@example.com>"]
+authors = ["Sendder <sendder2@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
